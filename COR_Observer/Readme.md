@@ -41,14 +41,6 @@ Interface `Kurir` memiliki dua buah method:
 
 Kode `PricingInitializer.java` menginisialisasi informasi `Asuransi` dan `Kurir` di awal jalannya program.
 
-## Hint
-
-Untuk mendapatkan nilai penuh, anda harus mempertimbangkan bagaimana maintainability code anda. Yakni, perubahan kode minimal jika ada penambahan fitur di bawah minimal.
-
-1. Ada penambahan tipe asuransi atau jenis kurir baru.
-2. Ada penambahan **layanan** baru selain asuransi dan kurir, misalnya ada biaya tambahan untuk jenis **packaging** barang.
-
-Catatan: fitur-fitur ini tidak diimplementasikan pada tutorial ini.
 
 # Tracking Ekspedisi (package: tracking)
 
