@@ -1,4 +1,4 @@
-# So many opportunities!
+# Problem Description
 
 ## Section 1: Magic should be fun, isn't it?
 
